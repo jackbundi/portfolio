@@ -1,0 +1,32 @@
+body{
+  background: #01796F;
+  margin: 5;
+}
+.img{
+  float: right;
+  margin: inherit;
+  background-color: green;
+}
+ #skill{
+   font-style: italic;
+ }
+
+ #hobby{
+padding: inherit;
+ }
+ .projects{
+   float: right;
+ }
+ 
+ .about{
+   float: left;
+ }
+.masomo{
+  float: right;
+   background-color: red;
+ }
+.work{
+  float: left;
+  margin:inherit;
+  background-color: blue;
+}
